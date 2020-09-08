@@ -1,7 +1,7 @@
 ---
 title: "HW 5"
 author: "Name here"
-output: html_document
+output: pdf_document
 ---
 
 Please use D2L to turn in **both the DOC or PDF output** and your R Markdown file in.
