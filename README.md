@@ -1,12 +1,12 @@
 
-# Q1. Describe your dataset (2 points)
+### Q1. Describe your dataset (2 points)
 
 Describe your dataset that you've selected for the course project
 
-## Q2. Specify your research question (2 points)
+### Q2. Specify your research question (2 points)
 
 What do you hope to learn from this dataset. Note: this can change as the project progresses.
 
-## Q3. Create an exploratory figure (4 points)
+### Q3. Create an exploratory figure (4 points)
 
 Import your dataset and create a figure from your dataset.
